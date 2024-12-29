@@ -5,6 +5,7 @@ This is a simple example of how to implement standard and nested navigation usin
 ## Getting Started
 
 When you run this project, you'll see the following interface:
+
 ![Screenshot](docs/assets/welcome.png)
 
 This button takes you to a screen with a BottomNavigationBar that contains three examples:
@@ -23,7 +24,7 @@ This button takes you to a screen with a BottomNavigationBar that contains three
 The detail screen overlays the entire screen, including the BottomNavigationBar.
 <p float="left">
   <img src="docs/assets/standard_main.png" width="200" />
-  <img src="docs/assets/standard_detail.png" width="193" /> 
+  <img src="docs/assets/standard_detail.png" width="197" /> 
 </p>
 
  ## Nested Navigation
